@@ -10,8 +10,8 @@ role: Assistant Professor of Earth System Science, Starting July 2021
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Irvine
+  url: "https://www.ess.uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:jane.baldwin@uci.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/janewbaldwin
