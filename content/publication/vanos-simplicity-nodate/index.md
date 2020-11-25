@@ -12,8 +12,8 @@ authors:
 - Kristie L. Ebi
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-25T15:44:37-05:00
+date: -01-01
+lastmod: 2020-11-25T16:20:41-05:00
 featured: false
 draft: false
 
@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T20:45:10.903218Z'
+publishDate: '2020-11-25T21:20:41.365453Z'
 publication_types:
-- '2'
+- '3'
 abstract: Extreme heat adversely affects human health, productivity, and well-being,
   with more frequent and intense heatwaves projected to increase exposures. However,
   current risk projections oversimplify critical inter-individual factors of human

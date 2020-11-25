@@ -18,8 +18,8 @@ authors:
 - Peter Berry
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-25T15:44:37-05:00
+date: -01-01
+lastmod: 2020-11-25T16:20:41-05:00
 featured: false
 draft: false
 
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T20:45:11.048361Z'
+publishDate: '2020-11-25T21:20:41.514318Z'
 publication_types:
-- '2'
+- '3'
 abstract: Extreme weather and climate events, such as heat waves, cyclones, and floods,
   are an expression of climate variability. These events and events influenced by
   climate change, such as wildfires, continue to cause significant human morbidity
