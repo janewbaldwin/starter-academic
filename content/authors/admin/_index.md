@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Climate Dynamics
+- Extreme Event Risk
+- Climate Modeling
 
 education:
   courses:
@@ -47,6 +47,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/janewbaldwin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jane-baldwin-05a65212b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
