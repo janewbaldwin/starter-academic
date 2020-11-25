@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jane W. Baldwin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Earth System Science, Starting July 2021
 
 # Organizations/Affiliations
 organizations:
@@ -23,15 +23,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Atmospheric and Oceanic Sciences
+    institution: Princeton University
+    year: 2018
+  - course: BA in Earth and Planetary Sciences
+    institution: Harvard University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +40,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/janewbaldwin
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=Jtn-XfoAAAAJ&view_op=list_works&gmla=AJsN-F5AY98csVTmspglBaUmos90VcC8Ci-Hy_9PE-8uhF0SB9oEsNOhLR66oLIUHqpH1LGnVVHNeq9vleJo7Ue-ZbuBR-8gyFeTyLdGG6YmBGO4XoEGWsk
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/janewbaldwin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
