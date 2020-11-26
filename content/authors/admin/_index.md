@@ -26,7 +26,7 @@ education:
   - course: PhD in Atmospheric and Oceanic Sciences
     institution: Princeton University
     year: 2018
-  - course: BA in Earth and Planetary Sciences
+  - course: BA in Earth and Planetary Sciences, *Summa Cum Laude*, *Phi Beta Kappa*
     institution: Harvard University
     year: 2012
 
@@ -70,8 +70,10 @@ user_groups:
 
 Dr. Baldwin is broadly interested in how large-scale atmospheric dynamics influence regional climate and climatic extremes, with an eye to climate change and policy applications.
 
-She is currently a Lamont-Doherty Earth Observatory Postdoctoral Fellow at Columbia University working on understanding and quantifying tropical cyclone risk with Prof. Suzana Camargo and Prof. Adam Sobel. Prior to this position, she spent one year as a postdoctoral research associate with the Princeton Environmental Institute (PEI) and the Woodrow Wilson School of Public and International Affairs Center for Policy Research on Energy and the Environment (C-PREE), examining mortality risks of heat waves, and controls on tropical cyclone genesis in the East Pacific.
-
-She completed her PhD in the Program in Atmospheric and Oceanic Sciences at Princeton University, collaborating with NOAA's Geophysical Fluid Dynamics Laboratory. Her dissertation, advised by Prof. Gabriel Vecchi, used Global Climate Models to examine the influence of mountains on deserts, monsoons, and tropical cyclones. This work was funded through a National Science Foundation Graduate Research Fellowship. She also researched temporal structure and risk of heat waves with Prof. Michael Oppenheimer through a PEI-STEP fellowship in joint with the Princeton School of Public and International Affairs (formerly Woodrow Wilson School).
+She is currently a Lamont-Doherty Earth Observatory Postdoctoral Fellow at Columbia University studying tropical cyclone risk with Profs. Suzana Camargo and Adam Sobel.
+She completed her PhD in Atmospheric and Oceanic Sciences at Princeton University, collaborating with NOAA's Geophysical Fluid Dynamics Laboratory.
+Her dissertation, advised by Prof. Gabriel Vecchi, used Global Climate Models to examine the influence of mountains on deserts, monsoons, and tropical cyclones.
+She also researched temporal structure and risk of heat waves with Prof. Michael Oppenheimer through a PEI-STEP fellowship in joint with the Princeton School of Public and International Affairs (formerly Woodrow Wilson School).
+She was introduced to climate dynamics research through her senior thesis advised by Prof. Peter Huybers while an undergrad at Harvard University.
 
 In summer 2021, Dr. Baldwin will begin an Assistant Professorship in the Department of Earth System Science at University of California, Irvine.
