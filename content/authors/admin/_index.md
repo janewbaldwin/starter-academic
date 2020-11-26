@@ -68,6 +68,10 @@ user_groups:
 - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Baldwin is broadly interested in how large-scale atmospheric dynamics influence regional climate and climatic extremes, with an eye to climate change and policy applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She is currently a Lamont-Doherty Earth Observatory Postdoctoral Fellow at Columbia University working on understanding and quantifying tropical cyclone risk with Prof. Suzana Camargo and Prof. Adam Sobel. Prior to this position, she spent one year as a postdoctoral research associate with the Princeton Environmental Institute (PEI) and the Woodrow Wilson School of Public and International Affairs Center for Policy Research on Energy and the Environment (C-PREE), examining mortality risks of heat waves, and controls on tropical cyclone genesis in the East Pacific.
+
+She completed her PhD in the Program in Atmospheric and Oceanic Sciences at Princeton University, collaborating with NOAA's Geophysical Fluid Dynamics Laboratory. Her dissertation, advised by Prof. Gabriel Vecchi, used Global Climate Models to examine the influence of mountains on deserts, monsoons, and tropical cyclones. This work was funded through a National Science Foundation Graduate Research Fellowship. She also researched temporal structure and risk of heat waves with Prof. Michael Oppenheimer through a PEI-STEP fellowship in joint with the Princeton School of Public and International Affairs (formerly Woodrow Wilson School).
+
+In summer 2021, Dr. Baldwin will begin an Assistant Professorship in the Department of Earth System Science at University of California, Irvine.
