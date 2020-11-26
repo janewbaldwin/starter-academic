@@ -1,44 +1,47 @@
 ---
 # Display name
-title: "Sophia Lacambra"
+title: "Kaguya Baldwin Wengrowski"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "sophia-lacambra"
+- "kaguya-wengrowski"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Thesis Student
+role: Exterminator
 
 # Organizations/Affiliations
 organizations:
-- name: Barnard College
-  url: "https://envsci.barnard.edu/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Extreme Events
-- Health Impacts
+- Mice
+- Zoomies
+- Birds
+- Bugs
 
 education:
-  courses:
-  - course: BA in Environmental Science
-    institution: Barnard College
-    year: Expected 2021
+#  courses:
+#  - course: BS 
+#    institution: Meow Institute of Technology
+#    year: 2020
+#  - course
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:sal2218@barnard.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
@@ -53,9 +56,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/sophia-lacambra-699b9a177/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
-- Group Members
+- Group 1
+- Group 2
 ---

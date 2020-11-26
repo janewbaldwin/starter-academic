@@ -5,18 +5,19 @@ active: true
 weight: 50
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Group Members
+#title: Group Members
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigator
-    - Researchers
-    - Students
-    - Administration
-    - Visitors
-    - Alumni
+#    - Principal Investigator
+#    - Researchers
+#    - Students
+#    - Administration
+#    - Visitors
+#    - Alumni
+    - Group Members
 design:
   # Show user's social networking links? (true/false)
   show_social: false
