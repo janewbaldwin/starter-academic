@@ -5,7 +5,7 @@ active: true
 weight: 65
 
 # ... Put Your Section Options Here (title etc.) ...
-#title: Group Members
+title: Group Members
 
 content:
   # Choose which groups/teams of users to display.
@@ -13,11 +13,11 @@ content:
   user_groups:
 #    - Principal Investigator
 #    - Researchers
-#    - Students
+    - Students
 #    - Administration
 #    - Visitors
 #    - Alumni
-    - Group Members
+#    - Group Members
     - Mascots
 design:
   # Show user's social networking links? (true/false)
