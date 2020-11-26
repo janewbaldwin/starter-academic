@@ -2,7 +2,7 @@
 widget: people
 headless: true  # This file represents a page section.
 active: true
-weight: 50
+weight: 65
 
 # ... Put Your Section Options Here (title etc.) ...
 #title: Group Members
