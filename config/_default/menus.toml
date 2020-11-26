@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#demo"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Bio"
+  url = "#about"
   weight = 20
 
 [[main]]
@@ -19,8 +19,13 @@
   weight = 30
 
 [[main]]
+  name = "People"
+  url = "#people"
+  weight = 35
+
+[[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
