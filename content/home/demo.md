@@ -40,7 +40,7 @@ weight = 15  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "100px", "0"]
+  padding = ["30px", "0", "30px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,6 +50,5 @@ weight = 15  # Order that this section will appear.
  css_class = ""
 +++
 # <div align="center"> The Baldwin Group studies *climate dynamics* and *extreme event risk*.
-
 
 # <div align="center"> We develop knowledge critical for the adaptation challenges presented by earth's changing climate.
