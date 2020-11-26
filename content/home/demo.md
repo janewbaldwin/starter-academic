@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome!"
-subtitle = ""
+# title = "Welcome!"
+# subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -30,7 +30,7 @@ subtitle = ""
   
   # Background image.
   image = "tc1.gif"  # Name of image in `static/media/`.
-  image_darken = 0.5 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.2 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
@@ -49,11 +49,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-# The Baldwin Group studies *climate dynamics* and *extreme event risk*.
+<div align="center"># The Baldwin Group studies *climate dynamics* and *extreme event risk*.
 
 # We develop knowledge critical for the adaptation challenges presented by earth's changing climate. 
-
-
-{{% callout note %}}
-We're hiring! Please be in touch if you're interested in working with Dr. Baldwin as a grad student or postdoc.
-{{% /callout %}}
