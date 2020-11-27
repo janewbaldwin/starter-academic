@@ -40,5 +40,5 @@ url_video: ""
 slides: ""
 
 ---
-
-This is a test of whether adding text works!
+Heat waves are important to study.
+{{< cite page="/publication/baldwin-temporally-2019" view="4" >}}
