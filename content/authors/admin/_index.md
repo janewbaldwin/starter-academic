@@ -70,7 +70,7 @@ user_groups:
 
 Dr. Baldwin is broadly interested in how large-scale atmospheric dynamics influence regional climate and climatic extremes, with an eye to climate change and policy applications.
 
-She is currently a Lamont-Doherty Earth Observatory Postdoctoral Fellow at Columbia University studying tropical cyclone risk with Profs. Suzana Camargo and Adam Sobel.
+She is currently a Lamont-Doherty Earth Observatory Postdoctoral Fellow at Columbia University studying tropical cyclone risk with Profs. [Suzana Camargo](https://www.ldeo.columbia.edu/~suzana/) and Adam Sobel.
 She completed her PhD in Atmospheric and Oceanic Sciences at Princeton University, collaborating with NOAA's Geophysical Fluid Dynamics Laboratory.
 Her dissertation, advised by Prof. Gabriel Vecchi, used Global Climate Models to examine the influence of mountains on deserts, monsoons, and tropical cyclones.
 She also researched temporal structure and risk of heat waves with Prof. Michael Oppenheimer through a PEI-STEP fellowship in joint with the Princeton School of Public and International Affairs (formerly Woodrow Wilson School).
