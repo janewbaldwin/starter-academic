@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Tropical Cyclone Risk"
-summary: "Collaboration with the World Bank."
+title: "Tropical Cyclones"
+summary: "What is the risk of tropical cyclones to wellbeing?"
 authors: []
 tags: []
 categories: []
