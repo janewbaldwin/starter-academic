@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Heat Waves"
-summary: "How is the risk of heat stress changing with global warming?""
+summary: "How is the risk of heat stress changing with global warming?"
 authors: []
 tags: []
 categories: []
