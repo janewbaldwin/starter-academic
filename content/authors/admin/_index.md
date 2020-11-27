@@ -26,7 +26,7 @@ education:
   - course: PhD in Atmospheric and Oceanic Sciences
     institution: Princeton University
     year: 2018
-  - course: BA in Earth and Planetary Sciences, _Summa Cum Laude_, _Phi Beta Kappa_
+  - course: BA in Earth and Planetary Sciences (Summa Cum Laude, Phi Beta Kappa)
     institution: Harvard University
     year: 2012
 
