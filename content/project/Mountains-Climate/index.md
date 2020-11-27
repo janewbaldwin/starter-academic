@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Mountains shape Earth's climate at a range of scales. At large-scales, orographic features such as the Tibetan Plateau and Rocky Mountains force stationary wave patterns that stretch across the globe, driving zonal asymmetries in climate. At regional scales, mountains shape circulation patterns that play key roles driving phenomena ranging from monsoons to deserts to tropical cyclones. We utilize idealized experiments with numerical climate models to better understand these diverse influences of mountains, and in turn regional climate especially rainfall. Our work seeks to push beyond classical understanding of mountains impacts on climate to decipher the role of mountains in climatic extremes and in atmosphere-ocean coupled contexts. We also study the role of mountains and their numerical portrayal in climate model biases.
+
 **Some related publications:**
 {{< cite page="/publication/baldwin-influence-2016" view="4" >}}
 {{< cite page="/publication/baldwin-direct-2019" view="4" >}}
