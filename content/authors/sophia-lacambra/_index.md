@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Thesis Student
+role: Senior Thesis Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Extreme Events
-- Health Impacts
+- Mental health impacts of tropical cyclones
 
 education:
   courses:
