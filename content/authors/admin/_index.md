@@ -70,10 +70,10 @@ user_groups:
 
 Dr. Baldwin is broadly interested in how large-scale atmospheric dynamics influence regional climate and climatic extremes, with an eye to climate change and policy applications.
 
-She is currently a Lamont-Doherty Earth Observatory Postdoctoral Fellow at Columbia University studying tropical cyclone risk with Profs. [Suzana Camargo](https://www.ldeo.columbia.edu/~suzana/) and Adam Sobel.
-She completed her PhD in Atmospheric and Oceanic Sciences at Princeton University, collaborating with NOAA's Geophysical Fluid Dynamics Laboratory.
-Her dissertation, advised by Prof. Gabriel Vecchi, used Global Climate Models to examine the influence of mountains on deserts, monsoons, and tropical cyclones.
-She also researched temporal structure and risk of heat waves with Prof. Michael Oppenheimer through a PEI-STEP fellowship in joint with the Princeton School of Public and International Affairs (formerly Woodrow Wilson School).
-She was introduced to climate dynamics research through her senior thesis advised by Prof. Peter Huybers while an undergrad at Harvard University.
+She is currently a [Lamont-Doherty Earth Observatory Postdoctoral Fellow](https://www.ldeo.columbia.edu/about-ldeo/office-director/postdoctoral-fellowship-earth-environmental-and-ocean-sciences) at [Columbia University](https://www.columbia.edu/) studying tropical cyclone risk with Profs. [Suzana Camargo](https://www.ldeo.columbia.edu/~suzana/) and [Adam Sobel](http://www.columbia.edu/~ahs131/home.html).
+She completed her PhD in [Atmospheric and Oceanic Sciences](https://aos.princeton.edu/) at [Princeton University](https://www.princeton.edu/), collaborating with [NOAA's Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/).
+Her dissertation, advised by Prof. [Gabriel Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi), used Global Climate Models to examine the influence of mountains on deserts, monsoons, and tropical cyclones.
+She also researched temporal structure and risk of heat waves with Prof. [Michael Oppenheimer](https://scholar.princeton.edu/oppenheimer) through a [PEI-STEP fellowship](https://environment.princeton.edu/education/graduate-certificate-in-environmental-studies/hmei-step-program/) in joint with the [Princeton School of Public and International Affairs (formerly Woodrow Wilson School)](https://spia.princeton.edu/).
+She was introduced to climate dynamics research through her senior thesis advised by Prof. [Peter Huybers](http://www.people.fas.harvard.edu/~phuybers/) while an undergraduate studying [Earth and Planetary Science](https://eps.harvard.edu/) at [Harvard University](https://www.harvard.edu/).
 
-In summer 2021, Dr. Baldwin will begin an Assistant Professorship in the Department of Earth System Science at University of California, Irvine.
+In summer 2021, Dr. Baldwin will begin an Assistant Professorship in the [Department of Earth System Science](https://www.ess.uci.edu/) at [University of California, Irvine](https://uci.edu/).
