@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Tropical Cyclones"
-summary: "What is the risk of tropical cyclones to wellbeing?"
+summary: "What controls the risk of tropical cyclones, and what are their impacts across populations?"
 authors: []
 tags: []
 categories: []
