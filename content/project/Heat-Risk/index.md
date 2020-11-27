@@ -39,6 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
-+++
-This is a test of adding a description to this project.
 ---
