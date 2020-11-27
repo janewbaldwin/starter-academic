@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mountains Climate"
-summary: "Influence of Mountains on Climate"
+title: "Mountains and Climate"
+summary: "How do mountains influence rainfall across the Earth?"
 authors: []
 tags: []
 categories: []
