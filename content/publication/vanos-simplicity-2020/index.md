@@ -6,14 +6,14 @@ title: Simplicity lacks robustness when projecting heat-health outcomes in a cha
 subtitle: ''
 summary: ''
 authors:
-- Jennifer Vanos
+- Jennifer K. Vanos
 - Jane W. Baldwin
 - Ollie Jay
 - Kristie L. Ebi
 tags: []
 categories: []
-date: -01-01
-lastmod: 2020-11-25T16:20:41-05:00
+date: '2020-11-01'
+lastmod: 2020-11-27T17:14:16-05:00
 featured: false
 draft: false
 
@@ -31,13 +31,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T21:20:41.365453Z'
+publishDate: '2020-11-27T22:14:16.783451Z'
 publication_types:
-- '3'
+- '2'
 abstract: Extreme heat adversely affects human health, productivity, and well-being,
   with more frequent and intense heatwaves projected to increase exposures. However,
   current risk projections oversimplify critical inter-individual factors of human
   thermoregulation, resulting in unreliable and unrealistic estimates of future adverse
   health outcomes.
 publication: '*Nature Communications*'
+url_pdf: https://www.nature.com/articles/s41467-020-19994-1
+doi: 10.1038/s41467-020-19994-1
 ---
