@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Some relevant publications:**
+{{< cite page="/publication/baldwin-direct-2019" view="4" >}}
+{{< cite page="/publication/vecchi-tropical-2019" view="4" >}}
