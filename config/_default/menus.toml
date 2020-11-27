@@ -24,13 +24,13 @@
   weight = 35
 
 [[main]]
-  name = "Opportunities"
-  url = "#opportunities"
+  name = "Publications"
+  url = "#publications"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Opportunities"
+  url = "#opportunities"
   weight = 50
 
 [[main]]
