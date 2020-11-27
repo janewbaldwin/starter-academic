@@ -49,6 +49,6 @@ weight = 15  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-# <div align="center"> The Baldwin Group studies *climate dynamics* and *extreme event risk*.
+# <div align="center"> The Baldwin Group studies climate dynamics and extreme event risk.
 
 # <div align="center"> We develop knowledge critical for the adaptation challenges presented by earth's changing climate.

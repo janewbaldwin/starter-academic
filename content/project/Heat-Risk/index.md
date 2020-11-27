@@ -40,9 +40,9 @@ url_video: ""
 slides: ""
 
 ---
-One of the most robustly projected consequences of increased levels of greenhouse gases in the atmosphere is higher atmospheric temperatures, and resulting increased frequency and intensity of heat waves. Heat waves also have grave consequences for human health, resulting in substantial morbidity and mortality each year. While we can quantify these impacts in the present, projected changes in heat-related impacts on human health remain uncertain. In our research, we 1) seek to better understand projected changes in physical characteristics of heat waves salient for their impacts, and 2) bridge disciplinary divides between epidemiology, medicine, and climate science to better model the health consequences of future heat waves and develop improved heat wave warning systems. 
+One of the most robustly projected consequences of increased levels of greenhouse gases in the atmosphere is higher atmospheric temperatures, and resulting increased frequency and intensity of heat waves. Heat waves also have grave consequences for human health, resulting in substantial morbidity and mortality each year. While we can quantify these impacts in the present, projected changes in heat-related human health impacts remain uncertain. In our research, we 1) seek to better understand projected changes in physical characteristics of heat waves salient for their impacts, and 2) bridge disciplinary divides between epidemiology, medicine, and climate science to better model the health consequences of future heat waves and develop improved heat wave warning systems. 
 
-Related publications:
+**Some related publications:**
 {{< cite page="/publication/baldwin-temporally-2019" view="4" >}}
 {{< cite page="/publication/vanos-simplicity-2020" view="4" >}}
 {{< cite page="/publication/zhao-interactions-2017" view="4" >}}
