@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "The Baldwin Group, Professor Jane W. Baldwin, UCI ESS"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "The Baldwin Group at UCI studies climate dynamics and extreme event risk."
 
 ############################
 ## Site Features
@@ -125,7 +125,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "tc1.gif"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "janewbaldwin"
@@ -235,7 +235,7 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
