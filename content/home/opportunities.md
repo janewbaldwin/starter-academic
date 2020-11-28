@@ -49,7 +49,7 @@ weight = 80  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-## Interested in joining the Baldwin Group at UCI?
+## Interested in joining The Baldwin Group at UCI?
 
 The Baldwin Group is committed to fostering a diverse, equitable, and inclusive environment for research and education.  We welcome applicants of any career stage interested in utilizing climatic models and observations to understand dynamics of the climate system, better quantify extreme event risks, and address the critical challenges posed by earth's changing climate.
 
