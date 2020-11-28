@@ -52,6 +52,6 @@ abstract: Prior global climate model (GCM) experiments have shown that the Tibet
   orography, ocean circulation changes, and these various effects on precipitation
   and tropical cyclones are analyzed and discussed.
 publication: '*Climate Dynamics*'
-url_pdf: https://www.dropbox.com/s/sdblzhkp4ybpv2v/Baldwin%20et%20al.%20-%202019%20-%20The%20direct%20and%20ocean-mediated%20influence%20of%20Asian%20o.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/sdblzhkp4ybpv2v/baldwin-direct-2019.pdf?dl=0
 doi: 10.1007/s00382-019-04615-5
 ---

@@ -54,6 +54,6 @@ abstract: The temporal structure of heat waves having substantial human impact v
   mortality and morbidity with global warming, there is a need to consider added vulnerability
   caused by the compounding of heat waves.
 publication: "*Earth's Future*"
-url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018EF000989
+url_pdf: https://www.dropbox.com/s/wfhq24hike5qq66/baldwin-temporally-2019.pdf?dl=0
 doi: 10.1029/2018EF000989
 ---

@@ -41,4 +41,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Geophysical Research Letters*'
+url_pdf: https://www.dropbox.com/s/zjq5uoatueofsww/liao-stronger-2018.pdf?dl=0
 ---

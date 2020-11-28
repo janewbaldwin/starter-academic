@@ -64,6 +64,6 @@ abstract: Abstract Heat waves (HWs) are among the most damaging climate extremes
   of stored and anthropogenic heat during HWs are the primary contributors to the
   synergistic effects.
 publication: '*Environmental Research Letters*'
-url_pdf: http://iopscience.iop.org/10.1088/1748-9326/aa9f73
+url_pdf: https://www.dropbox.com/s/6hgvx62g8fhkhhu/zhao-interactions-2017.pdf?dl=0
 doi: 10.1088/1748-9326/aa9f73
 ---

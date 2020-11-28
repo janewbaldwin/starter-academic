@@ -42,4 +42,5 @@ publication_types:
 abstract: ''
 publication: '*Andlinger Center for Energy and the Environment, Princeton University*'
 url_pdf: https://acee.princeton.edu/distillates/fusion-energy-via-magnetic-confinement#introduction
+# url_pdf: https://www.dropbox.com/s/nvq3o4reaqppljo/chou-fusion-2016.pdf?dl=0
 ---

@@ -81,6 +81,6 @@ abstract: 'Responses of tropical cyclones (TCs) to CO2 doubling are explored usi
   less efficient development of these“seeds” into TCs, largely due to the nonlinear
   relation between temperature and saturation specific humidity.'
 publication: '*Climate Dynamics*'
-url_pdf: https://doi.org/10.1007/s00382-019-04913-y
+url_pdf: https://www.dropbox.com/s/zu5uxctekjtmwj8/vecchi-tropical-2019.pdf?dl=0
 doi: 10.1007/s00382-019-04913-y
 ---

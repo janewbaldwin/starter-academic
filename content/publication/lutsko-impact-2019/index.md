@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Climate*'
+url_pdf: https://www.dropbox.com/s/q3u2mi1y01dd2yc/lutsko-impact-2019.pdf?dl=0
 ---

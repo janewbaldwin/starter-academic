@@ -40,6 +40,6 @@ abstract: Extreme heat adversely affects human health, productivity, and well-be
   thermoregulation, resulting in unreliable and unrealistic estimates of future adverse
   health outcomes.
 publication: '*Nature Communications*'
-url_pdf: https://www.nature.com/articles/s41467-020-19994-1
+url_pdf: https://www.dropbox.com/s/q1s5mo8lv5fsa0h/vanos-simplicity-2020.pdf?dl=0
 doi: 10.1038/s41467-020-19994-1
 ---
