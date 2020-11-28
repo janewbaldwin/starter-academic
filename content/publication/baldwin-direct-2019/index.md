@@ -52,6 +52,6 @@ abstract: Prior global climate model (GCM) experiments have shown that the Tibet
   orography, ocean circulation changes, and these various effects on precipitation
   and tropical cyclones are analyzed and discussed.
 publication: '*Climate Dynamics*'
-url_pdf: https://doi.org/10.1007/s00382-019-04615-5
+#url_pdf: https://doi.org/10.1007/s00382-019-04615-5
 doi: 10.1007/s00382-019-04615-5
 ---
