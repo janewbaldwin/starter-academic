@@ -51,4 +51,4 @@ weight = 15  # Order that this section will appear.
 +++
 # <div align="center"> The Baldwin Group studies climate dynamics and extreme event risk.
 
-# <div align="center"> We develop knowledge critical for the adaptation challenges presented by earth's changing climate.
+# <div align="center"> We develop knowledge critical for the adaptation challenges presented by Earth's changing climate.
