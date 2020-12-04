@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:katy.wilson@columbia.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+- icon: linked
+  icon_pack: fab
+  link: https://www.linkedin.com/in/katymwilson/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
