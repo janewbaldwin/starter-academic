@@ -56,4 +56,5 @@ abstract: "Global Climate Models (GCMs) exhibit substantial biases in their simu
   \ findings suggest a simple, physically-based, and computationally inexpensive method\
   \ that can improve climate models and projections of future climate."
 publication: ''
+url_preprint: https://www.essoar.org/doi/abs/10.1002/essoar.10505166.1
 ---
