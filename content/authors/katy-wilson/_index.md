@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Tropical Cyclone Vulnerability
-- Catastrophe Modeling
+- climate risk management
+- corporate risk management and ESG
+- climate resilience and adaptation
 
 education:
   courses:
