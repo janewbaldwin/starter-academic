@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T20:45:09.682602Z'
+publishDate: '2021-01-11T21:14:59.193633Z'
 publication_types:
 - '2'
 abstract: 'Arid extratropical Asia (AEA) is bisected at the wetter Tian Shan (a northern
@@ -52,6 +52,6 @@ abstract: 'Arid extratropical Asia (AEA) is bisected at the wetter Tian Shan (a 
   northeast and southeast of the Tian Shan, respectively, due to reduction of snow
   cover and corresponding albedo decrease.'
 publication: '*Journal of Climate*'
-url_pdf: https://www.dropbox.com/s/kdf2q7pbyidjggr/baldwin-influence-2016.pdf?dl=0
+url_pdf: http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0490.1
 doi: 10.1175/JCLI-D-15-0490.1
 ---

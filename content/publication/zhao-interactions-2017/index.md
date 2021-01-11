@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T20:45:09.844203Z'
+publishDate: '2021-01-11T21:14:59.366039Z'
 publication_types:
 - '2'
 abstract: Abstract Heat waves (HWs) are among the most damaging climate extremes to
@@ -64,6 +64,6 @@ abstract: Abstract Heat waves (HWs) are among the most damaging climate extremes
   of stored and anthropogenic heat during HWs are the primary contributors to the
   synergistic effects.
 publication: '*Environmental Research Letters*'
-url_pdf: https://www.dropbox.com/s/6hgvx62g8fhkhhu/zhao-interactions-2017.pdf?dl=0
+url_pdf: http://iopscience.iop.org/10.1088/1748-9326/aa9f73
 doi: 10.1088/1748-9326/aa9f73
 ---

@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T21:20:41.680102Z'
+publishDate: '2021-01-11T21:15:00.467411Z'
 publication_types:
-- '3'
+- '2'
 abstract: "Global Climate Models (GCMs) exhibit substantial biases in their simulation\
   \ of  tropical climate. One particularly problematic bias exists in GCMs' simulation\
   \ of the tropical rainband known as the Intertropical Convergence Zone (ITCZ). Much\

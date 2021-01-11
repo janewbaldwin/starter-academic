@@ -18,8 +18,8 @@ authors:
 - Peter Berry
 tags: []
 categories: []
-date: -01-01
-lastmod: 2020-11-25T16:20:41-05:00
+date: '2021-01-01'
+lastmod: 2021-01-11T16:14:04-05:00
 featured: false
 draft: false
 
@@ -37,23 +37,27 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T21:20:41.514318Z'
+publishDate: '2021-01-11T21:15:00.809749Z'
 publication_types:
-- '3'
+- '2'
 abstract: Extreme weather and climate events, such as heat waves, cyclones, and floods,
   are an expression of climate variability. These events and events influenced by
   climate change, such as wildfires, continue to cause significant human morbidity
-  and mortality, and adversely affect mental health and well-being. Although adverse
+  and mortality and adversely affect mental health and well-being. Although adverse
   health impacts from extreme events declined over the past few decades, climate change
-  and more people moving into harm’s’ way could alter this trend. Long-term changes
-  to Earth’s energy balance are increasing the frequency and intensity of many extreme
+  and more people moving into harm's way could alter this trend. Long-term changes
+  to Earth's energy balance are increasing the frequency and intensity of many extreme
   events and the probability of compound events, with trends projected to accelerate
   under certain greenhouse gas emissions scenarios. While most of these events cannot
   be completely avoided, many of the health risks could be prevented through building
   climate-resilient health systems with improved risk reduction, preparation, response,
-  and recovery. Conducting vulnerability and adaptation assessments, and developing
-  health system adaptation plans, can identify priority actions to effectively reduce
+  and recovery. Conducting vulnerability and adaptation assessments and developing
+  health system adaptation plans can identify priority actions to effectively reduce
   risks, such as disaster risk management and more resilient infrastructure. The risks
-  are urgent, so action is needed now.
-publication: '*Annual Reviews of Public Health*'
+  are urgent, so action is needed now. Expected final online publication date for
+  the Annual Review of Public Health, Volume 42 is April 2021. Please see http://www.annualreviews.org/page/journal/pubdates
+  for revised estimates.
+publication: '*Annual Review of Public Health*'
+url_pdf: https://www.annualreviews.org/doi/pdf/10.1146/annurev-publhealth-012420-105026
+doi: 10.1146/annurev-publhealth-012420-105026
 ---

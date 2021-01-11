@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-25T20:45:10.158880Z'
+publishDate: '2021-01-11T21:14:59.688578Z'
 publication_types:
 - '2'
 abstract: Prior global climate model (GCM) experiments have shown that the Tibetan
@@ -52,6 +52,6 @@ abstract: Prior global climate model (GCM) experiments have shown that the Tibet
   orography, ocean circulation changes, and these various effects on precipitation
   and tropical cyclones are analyzed and discussed.
 publication: '*Climate Dynamics*'
-url_pdf: https://www.dropbox.com/s/sdblzhkp4ybpv2v/baldwin-direct-2019.pdf?dl=0
+url_pdf: https://doi.org/10.1007/s00382-019-04615-5
 doi: 10.1007/s00382-019-04615-5
 ---
