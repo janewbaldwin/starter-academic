@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Earth System Science
+    institution: University of California Irvine
+    year: Expected 2026
   - course: B.S. in Physics
     institution: Walla Walla University
     year: 2021
-  - course: Ph.D. in Earth System Science
-    institution: University of California Irvine
-    year: In progress
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
