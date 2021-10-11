@@ -22,17 +22,18 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- climate modeling
+- human impacts on climate
+- climate impacts on humans
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.S. in Physics
+    institution: Walla Walla University
+    year: 2021
+  - course: Ph.D. in Earth System Science
+    institution: University of California Irvine
+    year: In progress
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
