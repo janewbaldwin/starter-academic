@@ -30,7 +30,7 @@ education:
   courses:
   - course: MA in Climate and Society
     institution: Columbia University
-    year: Expected 2021
+    year: 2021
   - course: BA in Geography
     institution: University of Cambridge
     year: 2020
@@ -67,6 +67,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
-- Group Members
+- Former Group Members
 ---
