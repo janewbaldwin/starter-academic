@@ -13,11 +13,11 @@ content:
   user_groups:
 #    - Principal Investigator
 #    - Researchers
-    - Students
+#    - Students
 #    - Administration
 #    - Visitors
-#    - Alumni
-#    - Group Members
+    - Former
+    - Current
     - Mascots
 design:
   # Show user's social networking links? (true/false)
