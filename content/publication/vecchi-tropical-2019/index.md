@@ -38,7 +38,7 @@ authors:
 tags: []
 categories: []
 date: '2019-11-01'
-lastmod: 2020-11-25T15:38:41-05:00
+lastmod: 2021-10-11T21:06:49-07:00
 featured: false
 draft: false
 
@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-11T21:14:59.844212Z'
+publishDate: '2021-10-12T04:06:49.028331Z'
 publication_types:
 - '2'
 abstract: 'Responses of tropical cyclones (TCs) to CO2 doubling are explored using
@@ -81,6 +81,6 @@ abstract: 'Responses of tropical cyclones (TCs) to CO2 doubling are explored usi
   less efficient development of these“seeds” into TCs, largely due to the nonlinear
   relation between temperature and saturation specific humidity.'
 publication: '*Climate Dynamics*'
-url_pdf: https://doi.org/10.1007/s00382-019-04913-y
+url_pdf: https://www.dropbox.com/s/zu5uxctekjtmwj8/vecchi-tropical-2019.pdf?dl=0
 doi: 10.1007/s00382-019-04913-y
 ---

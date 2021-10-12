@@ -1,24 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fusion Energy via Magnetic Confinement: An Energy Technology Distillate'
+title: 'Estimating Tropical Cyclone Vulnerability: A Review of Different Open-Source
+  Approaches'
 subtitle: ''
 summary: ''
 authors:
-- Cleo B. Chou
-- Janam Jhaveri
+- Katy Wilson
 - Jane W. Baldwin
-- Phillip M. Hannam
-- Kyle Keller
-- Wei Peng
-- Sam Rabin
-- Arvind P. Ravikumar
-- Annette M. Trierweiler
-- Xingchen T. Wang
 tags: []
 categories: []
-date: '2016-05-01'
-lastmod: 2021-10-11T21:06:49-07:00
+date: -01-01
+lastmod: 2021-10-11T21:06:50-07:00
 featured: false
 draft: false
 
@@ -36,11 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.332605Z'
+publishDate: '2021-10-12T04:06:50.243478Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Andlinger Center for Energy and the Environment, Princeton University*'
-url_pdf: https://www.dropbox.com/s/nvq3o4reaqppljo/chou-fusion-2016.pdf?dl=0
-doi: https://acee.princeton.edu/distillates/fusion-energy-via-magnetic-confinement#introduction
+publication: '*In review*'
 ---

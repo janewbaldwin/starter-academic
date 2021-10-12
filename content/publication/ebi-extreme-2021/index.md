@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-01-11T16:14:04-05:00
+lastmod: 2021-10-11T21:06:49-07:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-11T21:15:00.809749Z'
+publishDate: '2021-10-12T04:06:49.637751Z'
 publication_types:
 - '2'
 abstract: Extreme weather and climate events, such as heat waves, cyclones, and floods,
@@ -58,6 +58,6 @@ abstract: Extreme weather and climate events, such as heat waves, cyclones, and 
   the Annual Review of Public Health, Volume 42 is April 2021. Please see http://www.annualreviews.org/page/journal/pubdates
   for revised estimates.
 publication: '*Annual Review of Public Health*'
-url_pdf: https://www.annualreviews.org/doi/pdf/10.1146/annurev-publhealth-012420-105026
+url_pdf: https://www.dropbox.com/s/87pxl47u6fnnv1w/ebi-extreme-2021.pdf?dl=0
 doi: 10.1146/annurev-publhealth-012420-105026
 ---

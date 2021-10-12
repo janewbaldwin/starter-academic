@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-11-01'
-lastmod: 2020-11-27T17:14:16-05:00
+lastmod: 2021-10-11T21:06:49-07:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-11T21:15:00.634216Z'
+publishDate: '2021-10-12T04:06:49.484264Z'
 publication_types:
 - '2'
 abstract: Extreme heat adversely affects human health, productivity, and well-being,
@@ -40,6 +40,6 @@ abstract: Extreme heat adversely affects human health, productivity, and well-be
   thermoregulation, resulting in unreliable and unrealistic estimates of future adverse
   health outcomes.
 publication: '*Nature Communications*'
-url_pdf: https://www.nature.com/articles/s41467-020-19994-1
+url_pdf: https://www.dropbox.com/s/q1s5mo8lv5fsa0h/vanos-simplicity-2020.pdf?dl=0
 doi: 10.1038/s41467-020-19994-1
 ---
