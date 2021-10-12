@@ -50,3 +50,6 @@ weight = 15  # Order that this section will appear.
  css_class = ""
 +++
 # <div align="center"> The Climate and Extreme Event Risk Group @ UCI develops knowledge critical for the adaptation challenges presented by Earth's changing climate.
+{{% callout note %}}
+We're hiring! Please be in touch if you're interested in working with Dr. Baldwin as a postdoc researching mountains and precipitation patterns in climate models.
+{{% /callout %}}
