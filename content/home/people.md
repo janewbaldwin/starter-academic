@@ -16,8 +16,8 @@ content:
 #    - Students
 #    - Administration
 #    - Visitors
-    - Former
     - Current
+    - Former
     - Mascots
 design:
   # Show user's social networking links? (true/false)
