@@ -6,7 +6,7 @@ title: Jane W. Baldwin
 superuser: true
 
 # Role/position
-role: Assistant Professor of Earth System Science, Starting July 2021
+role: Assistant Professor of Earth System Science
 
 # Organizations/Affiliations
 organizations:
