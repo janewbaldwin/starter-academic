@@ -50,6 +50,3 @@ weight = 15  # Order that this section will appear.
  css_class = ""
 +++
 # <div align="center"> The Climate and Extreme Event Risk Group @ UCI develops knowledge critical for the adaptation challenges presented by Earth's changing climate.
-#{{% callout note %}}
-#We're hiring a postdoc for a NASA-funded project researching mountains and precipitation patterns in climate models! See more info and apply [here](https://recruit.ap.uci.edu/JPF07171).
-#{{% /callout %}}
