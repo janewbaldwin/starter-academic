@@ -22,7 +22,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- climate modeling
+- precipitation biases
+- snowpack projections
 - human impacts on climate
 - climate impacts on humans
 
