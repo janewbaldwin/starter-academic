@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Earth System Science
+    institution: University of California Irvine
+    year: Expected 2027
   - course: B.S. in Atmospheric Science
     institution: Cornell University
     year: 2021
@@ -41,12 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sfrucht@uci.edu'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Samfrucht
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=wZxHqg8AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME
