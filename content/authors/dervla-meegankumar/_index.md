@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Dervla Meegankumar"
+title: "Dervla Meegan Kumar"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dervlak@uci.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: globe
   icon_pack: fas
   link: https://www.dervlamk.com/
