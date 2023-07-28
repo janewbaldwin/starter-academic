@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: B.S. in Atmospheric Science
-    institution: Cornell Unviversity
+    institution: Cornell University
     year: 2021
 
 # Social/Academic Networking
