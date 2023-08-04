@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.028331Z'
+publishDate: '2023-08-04T17:14:13.573079Z'
 publication_types:
 - '2'
 abstract: 'Responses of tropical cyclones (TCs) to CO2 doubling are explored using
@@ -83,4 +83,7 @@ abstract: 'Responses of tropical cyclones (TCs) to CO2 doubling are explored usi
 publication: '*Climate Dynamics*'
 url_pdf: https://www.dropbox.com/s/zu5uxctekjtmwj8/vecchi-tropical-2019.pdf?dl=0
 doi: 10.1007/s00382-019-04913-y
+links:
+- name: URL
+  url: https://www.dropbox.com/s/zu5uxctekjtmwj8/vecchi-tropical-2019.pdf?dl=0
 ---

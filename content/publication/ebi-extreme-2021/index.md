@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.637751Z'
+publishDate: '2023-08-04T17:14:14.757713Z'
 publication_types:
 - '2'
 abstract: Extreme weather and climate events, such as heat waves, cyclones, and floods,
@@ -60,4 +60,7 @@ abstract: Extreme weather and climate events, such as heat waves, cyclones, and 
 publication: '*Annual Review of Public Health*'
 url_pdf: https://www.dropbox.com/s/87pxl47u6fnnv1w/ebi-extreme-2021.pdf?dl=0
 doi: 10.1146/annurev-publhealth-012420-105026
+links:
+- name: URL
+  url: https://www.dropbox.com/s/87pxl47u6fnnv1w/ebi-extreme-2021.pdf?dl=0
 ---

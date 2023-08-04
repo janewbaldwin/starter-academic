@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:48.727449Z'
+publishDate: '2023-08-04T17:14:13.065340Z'
 publication_types:
 - '2'
 abstract: Abstract Heat waves (HWs) are among the most damaging climate extremes to
@@ -66,4 +66,7 @@ abstract: Abstract Heat waves (HWs) are among the most damaging climate extremes
 publication: '*Environmental Research Letters*'
 url_pdf: https://www.dropbox.com/s/6hgvx62g8fhkhhu/zhao-interactions-2017.pdf?dl=0
 doi: 10.1088/1748-9326/aa9f73
+links:
+- name: URL
+  url: https://www.dropbox.com/s/6hgvx62g8fhkhhu/zhao-interactions-2017.pdf?dl=0
 ---

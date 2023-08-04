@@ -10,12 +10,12 @@ authors:
 - Gabriel A. Vecchi
 - David S. Battisti
 tags:
-- '"Atmosphere-ocean coupled"'
-- '"ENSO"'
-- '"global climate model"'
-- '"orography"'
-- '"precipitation bias"'
-- '"tropical Pacific"'
+- ENSO
+- orography
+- global climate model
+- tropical Pacific
+- Atmosphere-ocean coupled
+- precipitation bias
 categories: []
 date: '2021-01-01'
 lastmod: 2021-10-11T21:06:49-07:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.793572Z'
+publishDate: '2023-08-04T17:14:15.095770Z'
 publication_types:
 - '2'
 abstract: "Global Climate Models (GCMs) exhibit substantial biases in their simulation\
@@ -64,4 +64,7 @@ abstract: "Global Climate Models (GCMs) exhibit substantial biases in their simu
 publication: '*AGU Advances*'
 url_pdf: https://www.dropbox.com/s/nv7ci5cdjuxrixj/baldwin-outsize-2021.pdf?dl=0
 doi: 10.1029/2020AV000343
+links:
+- name: URL
+  url: https://www.dropbox.com/s/nv7ci5cdjuxrixj/baldwin-outsize-2021.pdf?dl=0
 ---

@@ -10,12 +10,12 @@ authors:
 - Gabriel A. Vecchi
 - Michael Oppenheimer
 tags:
-- '"compound"'
-- '"global climate model"'
-- '"global warming"'
-- '"health"'
-- '"heat wave"'
-- '"risk"'
+- global warming
+- heat wave
+- compound
+- global climate model
+- health
+- risk
 categories: []
 date: '2019-01-01'
 lastmod: 2021-10-11T21:06:49-07:00
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.179946Z'
+publishDate: '2023-08-04T17:14:13.802264Z'
 publication_types:
 - '2'
 abstract: The temporal structure of heat waves having substantial human impact varies
@@ -56,4 +56,7 @@ abstract: The temporal structure of heat waves having substantial human impact v
 publication: "*Earth's Future*"
 url_pdf: https://www.dropbox.com/s/wfhq24hike5qq66/baldwin-temporally-2019.pdf?dl=0
 doi: 10.1029/2018EF000989
+links:
+- name: URL
+  url: https://www.dropbox.com/s/wfhq24hike5qq66/baldwin-temporally-2019.pdf?dl=0
 ---

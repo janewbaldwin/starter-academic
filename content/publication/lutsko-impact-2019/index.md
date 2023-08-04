@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.945537Z'
+publishDate: '2023-08-04T17:14:15.369966Z'
 publication_types:
 - '2'
 abstract: textlesssection class=\"abstract\"textgreatertextlessh2 class=\"abstractTitle
@@ -56,4 +56,7 @@ abstract: textlesssection class=\"abstract\"textgreatertextlessh2 class=\"abstra
 publication: '*Journal of Climate*'
 url_pdf: https://www.dropbox.com/s/q3u2mi1y01dd2yc/lutsko-impact-2019.pdf?dl=0
 doi: 10.1175/JCLI-D-19-0129.1
+links:
+- name: URL
+  url: https://www.dropbox.com/s/q3u2mi1y01dd2yc/lutsko-impact-2019.pdf?dl=0
 ---

@@ -36,11 +36,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:49.332605Z'
+publishDate: '2023-08-04T17:14:14.043686Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Andlinger Center for Energy and the Environment, Princeton University*'
 url_pdf: https://www.dropbox.com/s/nvq3o4reaqppljo/chou-fusion-2016.pdf?dl=0
 doi: https://acee.princeton.edu/distillates/fusion-energy-via-magnetic-confinement#introduction
+links:
+- name: URL
+  url: https://www.dropbox.com/s/nvq3o4reaqppljo/chou-fusion-2016.pdf?dl=0
 ---

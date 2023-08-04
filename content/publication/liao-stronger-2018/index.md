@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:50.094668Z'
+publishDate: '2023-08-04T17:14:15.633756Z'
 publication_types:
 - '2'
 abstract: It is well known that urban areas are typically hotter than the surrounding
@@ -56,4 +56,7 @@ abstract: It is well known that urban areas are typically hotter than the surrou
 publication: '*Geophysical Research Letters*'
 url_pdf: https://www.dropbox.com/s/zjq5uoatueofsww/liao-stronger-2018.pdf?dl=0
 doi: 10.1029/2018GL079679
+links:
+- name: URL
+  url: https://www.dropbox.com/s/zjq5uoatueofsww/liao-stronger-2018.pdf?dl=0
 ---

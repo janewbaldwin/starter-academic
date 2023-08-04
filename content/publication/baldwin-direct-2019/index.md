@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T04:06:48.878870Z'
+publishDate: '2023-08-04T17:14:13.332080Z'
 publication_types:
 - '2'
 abstract: Prior global climate model (GCM) experiments have shown that the Tibetan
@@ -54,4 +54,7 @@ abstract: Prior global climate model (GCM) experiments have shown that the Tibet
 publication: '*Climate Dynamics*'
 url_pdf: https://www.dropbox.com/s/sdblzhkp4ybpv2v/baldwin-direct-2019.pdf?dl=0
 doi: 10.1007/s00382-019-04615-5
+links:
+- name: URL
+  url: https://www.dropbox.com/s/sdblzhkp4ybpv2v/baldwin-direct-2019.pdf?dl=0
 ---
