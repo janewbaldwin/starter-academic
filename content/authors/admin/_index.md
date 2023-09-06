@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jane W. Baldwin
+title: Jane Baldwin
 
 # Is this the primary user of the site?
 superuser: true
