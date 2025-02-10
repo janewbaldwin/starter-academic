@@ -1,24 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Fusion Energy via Magnetic Confinement: An Energy Technology Distillate'
+title: Bridging Science and Practice to En(in)sure Resilience in a Changing Climate
+  - Journal of Catastrophe Risk and Resilience
 subtitle: ''
 summary: ''
-authors:
-- Cleo B. Chou
-- Janam Jhaveri
-- Jane W. Baldwin
-- Phillip M. Hannam
-- Kyle Keller
-- Wei Peng
-- Sam Rabin
-- Arvind P. Ravikumar
-- Annette M. Trierweiler
-- Xingchen T. Wang
+authors: []
 tags: []
 categories: []
-date: '2016-05-01'
-lastmod: 2021-10-11T21:06:49-07:00
+date: '2024-02-01'
+lastmod: 2025-02-10T07:10:32-08:00
 featured: false
 draft: false
 
@@ -36,14 +27,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-02-10T15:10:27.580151Z'
+publishDate: '2025-02-10T15:10:31.955841Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*Andlinger Center for Energy and the Environment, Princeton University*'
-url_pdf: https://www.dropbox.com/s/nvq3o4reaqppljo/chou-fusion-2016.pdf?dl=0
-doi: https://acee.princeton.edu/distillates/fusion-energy-via-magnetic-confinement#introduction
+- '0'
+abstract: Bridging Science and Practice to En(in)sure Resilience in a Changing Climate
+publication: ''
 links:
 - name: URL
-  url: https://www.dropbox.com/s/nvq3o4reaqppljo/chou-fusion-2016.pdf?dl=0
+  url: https://journalofcrr.com/bridging-science-and-practice-to-eninsure-resilience-in-a-changing-climate/
 ---

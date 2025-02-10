@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:16.196911Z'
+publishDate: '2025-02-10T15:10:29.942715Z'
 publication_types:
 - '6'
 abstract: Tropical cyclone (TC) risk assessments are critical for disaster preparedness

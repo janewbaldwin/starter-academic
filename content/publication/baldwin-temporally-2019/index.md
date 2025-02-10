@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:13.802264Z'
+publishDate: '2025-02-10T15:10:27.248509Z'
 publication_types:
 - '2'
 abstract: The temporal structure of heat waves having substantial human impact varies

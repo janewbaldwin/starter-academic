@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:13.332080Z'
+publishDate: '2025-02-10T15:10:26.579361Z'
 publication_types:
 - '2'
 abstract: Prior global climate model (GCM) experiments have shown that the Tibetan

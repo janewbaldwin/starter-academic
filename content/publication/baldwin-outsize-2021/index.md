@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:15.095770Z'
+publishDate: '2025-02-10T15:10:28.598358Z'
 publication_types:
 - '2'
 abstract: "Global Climate Models (GCMs) exhibit substantial biases in their simulation\

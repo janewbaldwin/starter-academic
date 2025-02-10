@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:14.757713Z'
+publishDate: '2025-02-10T15:10:28.260637Z'
 publication_types:
 - '2'
 abstract: Extreme weather and climate events, such as heat waves, cyclones, and floods,

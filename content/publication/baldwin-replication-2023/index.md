@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:16.469625Z'
+publishDate: '2025-02-10T15:10:30.276230Z'
 publication_types:
 - '0'
 abstract: This dataset produces a tropical cyclone risk (e.g. asset loss) model for

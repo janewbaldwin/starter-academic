@@ -56,7 +56,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:13.573079Z'
+publishDate: '2025-02-10T15:10:26.911581Z'
 publication_types:
 - '2'
 abstract: 'Responses of tropical cyclones (TCs) to CO2 doubling are explored using

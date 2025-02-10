@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T17:14:14.329642Z'
+publishDate: '2025-02-10T15:10:27.908399Z'
 publication_types:
 - '2'
 abstract: Extreme heat adversely affects human health, productivity, and well-being,
