@@ -17,7 +17,7 @@ content:
 #    - Administration
 #    - Visitors
     - Current
-    - Former
+#    - Former
     - Mascots
 design:
   # Show user's social networking links? (true/false)
