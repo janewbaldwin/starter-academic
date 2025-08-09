@@ -1,0 +1,29 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: assets/media
+public_folder: /media
+
+collections:
+  - name: authors
+    label: 作者
+    folder: content/authors
+    path: "{{slug}}/_index"
+    create: true
+    media_folder: "" # 圖片就存進各自作者資料夾（page bundle）
+    public_folder: ""
+    fields:
+      - { label: 顯示姓名, name: title, widget: string }
+      - { label: 職稱/標語, name: role, widget: string, required: false }
+      # 免改檔名：把任意上傳圖指定成資源名稱 avatar
+      - label: 頭像
+        name: resources
+        widget: list
+        allow_add: false
+        max: 1
+        fields:
+          - { label: 名稱, name: name, widget: hidden, default: avatar }
+          - { label: 圖片, name: src, widget: image }
+      - { label: Email, name: email, widget: string, required: false }
+      - { label: 簡介（短）, name: bio, widget: string, required: false }
+      - { label: 傳記內容, name: body, widget: markdown, required: false }
