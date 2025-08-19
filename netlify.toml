@@ -24,3 +24,25 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+# Netlify Identity
+[build.environment]
+  HUGO_VERSION = "0.78.2"
+  HUGO_ENABLEGITINFO = "true"
+
+# Git Gateway
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+# Identity redirects
+[[redirects]]
+  from = "/admin"
+  to = "/admin/"
+  status = 301
+
+[[redirects]]
+  from = "/admin/"
+  to = "/admin/index.html"
+  status = 200

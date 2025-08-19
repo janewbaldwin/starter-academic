@@ -1,0 +1,466 @@
+backend:
+  name: git-gateway
+  branch: master
+
+local_backend: true # Uncomment this to use the local backend
+media_folder: "content"
+public_folder: "/"
+
+collections:
+  - name: authors
+    label: Authors
+    label_singular: Author
+    folder: "content/authors"
+    path: "{{slug}}/_index"
+    create: true  # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields:  # The fields each document in this collection have
+      - { label: "Display name (such as your full name)", name: title, widget: string }
+      - { label: "Position or tagline (such as Professor of AI)", name: role, widget: string, required: false }
+      - {
+          label: "Avatar (upload an image named `avatar.jpg/png`)",
+          name: avatar_filename,
+          widget: image,
+          required: false,
+          default: "avatar",
+        }
+      - { label: "Short biography (shown in author boxes)", name: bio, widget: text, required: false }
+      - { label: "Full biography (shown in About widget)", name: body, widget: markdown, required: false }
+      - { label: "Interests (shown in About widget)", name: interests, widget: "list", required: false }
+      - { label: "User groups (Principal Investigator, Current, Former, Mascots, etc.)", name: user_groups, widget: list, required: false }
+      - {
+          label: Education,
+          name: education,
+          widget: object,
+          required: false,
+          fields:
+            [
+              {
+                label: Courses,
+                name: courses,
+                widget: list,
+                required: false,
+                fields:
+                  [
+                    { label: Course, name: course, widget: string },
+                    { label: Institution, name: institution, widget: string },
+                    {
+                      label: Year,
+                      name: year,
+                      widget: number,
+                      required: false,
+                    },
+                  ],
+              },
+            ],
+        }
+      - {
+          label: "Super user (is this the primary site user?)",
+          name: superuser,
+          widget: boolean,
+          required: false,
+        }
+      - label: "Organizations you belong to or are affiliated with (shown in About widget)"
+        name: "organizations"
+        required: false
+        widget: list
+        fields:
+          - {label: Organization, name: name, widget: string, required: true}
+          - {label: Link, name: url, widget: string, required: false}
+      - {
+          label: Social links,
+          name: social,
+          widget: list,
+          required: false,
+          fields:
+            [
+              { label: Icon, name: icon, widget: string },
+              {
+                label: Icon pack,
+                name: icon_pack,
+                widget: select,
+                options: ["fas", "far", "fab", "ai"],
+                required: false,
+              },
+              { label: Link, name: link, widget: string },
+            ],
+        }
+      - {
+          label: "Email (to use a Gravatar.com avatar)",
+          name: email,
+          widget: string,
+          required: false,
+        }
+  # Publications
+  - name: publications
+    label: Publications
+    label_singular: Publication
+    folder: "content/publication"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - { label: Abstract, name: abstract, widget: text, required: false }
+      - { label: Authors, name: authors, widget: list, required: false }
+      - { label: Date, name: date, widget: datetime }
+      - {
+          label: Publication types,
+          name: publication_types,
+          widget: select,
+          multiple: true,
+          options:
+            [
+              { label: Uncategorized, value: "0" },
+              { label: Journal, value: "2" },
+              { label: Book, value: "6" },
+            ],
+        }
+      - {
+          label: "Journal/Outlet",
+          name: publication,
+          widget: string,
+          required: false,
+        }
+      - { label: DOI, name: doi, widget: string, required: false }
+      - { label: PDF URL, name: url_pdf, widget: string, required: false }
+      - {
+          label: Links,
+          name: links,
+          widget: list,
+          required: false,
+          fields:
+            [
+              { label: Name, name: name, widget: string },
+              { label: URL, name: url, widget: string },
+            ],
+        }
+      - {
+          label: "BibTeX file (name it cite.bib)",
+          name: bibfile,
+          widget: file,
+          required: false,
+          media_library: { config: { multiple: false } },
+        }
+      - {
+          label: Featured image,
+          name: image,
+          widget: object,
+          required: false,
+          fields:
+            [
+              {
+                label: "Upload featured.jpg/png",
+                name: filename,
+                widget: image,
+                required: false,
+              },
+              {
+                label: Caption,
+                name: caption,
+                widget: string,
+                required: false,
+              },
+              {
+                label: "Focal point",
+                name: focal_point,
+                widget: string,
+                required: false,
+              },
+              {
+                label: "Thumbnail only",
+                name: preview_only,
+                widget: boolean,
+                required: false,
+              },
+            ],
+        }
+      - {
+          label: "Projects (refs)",
+          name: projects,
+          widget: list,
+          required: false,
+        }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - {
+          label: "Body (optional)",
+          name: body,
+          widget: markdown,
+          required: false,
+        }
+
+  # Projects
+  - name: projects
+    label: Projects
+    label_singular: Project
+    folder: "content/project"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - { label: Summary, name: summary, widget: text, required: false }
+      - { label: Date, name: date, widget: datetime }
+      - { label: Draft, name: draft, widget: boolean, default: false }
+      - { label: Featured, name: featured, widget: boolean, default: false }
+      - {
+          label: "External link",
+          name: external_link,
+          widget: string,
+          required: false,
+        }
+      - {
+          label: Links,
+          name: links,
+          widget: list,
+          required: false,
+          fields:
+            [
+              { label: URL, name: url, widget: string },
+              { label: Text, name: name, widget: string, required: false },
+              {
+                label: "Icon pack",
+                name: icon_pack,
+                widget: select,
+                options: ["", "fas", "far", "fab", "ai"],
+                required: false,
+              },
+              { label: Icon, name: icon, widget: string, required: false },
+            ],
+        }
+      - {
+          label: Featured image,
+          name: image,
+          widget: object,
+          required: false,
+          fields:
+            [
+              {
+                label: "Upload featured.jpg/png",
+                name: filename,
+                widget: image,
+              },
+              {
+                label: Caption,
+                name: caption,
+                widget: string,
+                required: false,
+              },
+              {
+                label: Alt text,
+                name: alt_text,
+                widget: string,
+                required: false,
+              },
+              {
+                label: "Focal point",
+                name: focal_point,
+                widget: string,
+                required: false,
+              },
+              {
+                label: "Thumbnail only",
+                name: preview_only,
+                widget: boolean,
+                required: false,
+              },
+            ],
+        }
+      - { label: Authors, name: authors, widget: list, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Categories, name: categories, widget: list, required: false }
+      - { label: Body, name: body, widget: markdown, required: false }
+
+  # Homepage widgets - Opportunities
+  - name: home_opportunities
+    label: Home - Opportunities
+    files:
+      - file: "content/home/opportunities.md"
+        label: Opportunities section
+        name: opportunities
+        format: toml-frontmatter
+        fields:
+          - { label: Active, name: active, widget: boolean, default: true }
+          - { label: Weight, name: weight, widget: number, valueType: int }
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Design,
+              name: design,
+              widget: object,
+              required: false,
+              collapsed: true,
+              fields:
+                [
+                  {
+                    label: Background,
+                    name: background,
+                    widget: object,
+                    required: false,
+                    fields:
+                      [
+                        {
+                          label: Background Image,
+                          name: image,
+                          widget: image,
+                          required: false,
+                        },
+                        {
+                          label: "Text color light",
+                          name: text_color_light,
+                          widget: boolean,
+                          required: false,
+                        },
+                      ],
+                  },
+                ],
+            }
+          - { label: Body, name: body, widget: markdown }
+
+  # Homepage widgets - Contact
+  - name: home_contact
+    label: Home - Contact
+    files:
+      - file: "content/home/contact.md"
+        label: Contact section
+        name: contact
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Weight, name: weight, widget: number, valueType: int }
+          - {
+              label: Content,
+              name: content,
+              widget: object,
+              fields:
+                [
+                  {
+                    label: "Autolink",
+                    name: autolink,
+                    widget: boolean,
+                    default: true,
+                  },
+                  {
+                    label: Form,
+                    name: form,
+                    widget: object,
+                    required: false,
+                    fields:
+                      [
+                        {
+                          label: "Provider",
+                          name: provider,
+                          widget: string,
+                          required: false,
+                        },
+                      ],
+                  },
+                ],
+            }
+          - {
+              label: Design,
+              name: design,
+              widget: object,
+              fields: [{ label: Columns, name: columns, widget: string }],
+            }
+
+  # Site-level settings (Footer/Contact info)
+  - name: site_settings
+    label: Site Settings
+    files:
+      - file: "config/_default/config.toml"
+        label: Basic Config
+        name: site_config
+        format: toml
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Base URL, name: baseurl, widget: string }
+          - { label: Copyright (footer), name: copyright, widget: string }
+      - file: "config/_default/params.toml"
+        label: Site Params (Contact & Social)
+        name: site_params
+        format: toml
+        fields:
+          - {
+              label: "Organization Name",
+              name: org_name,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: "Description",
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: "Contact Email",
+              name: email,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Address,
+              name: address,
+              widget: object,
+              required: false,
+              fields:
+                [
+                  {
+                    label: Street,
+                    name: street,
+                    widget: string,
+                    required: false,
+                  },
+                  { label: City, name: city, widget: string, required: false },
+                  {
+                    label: Region,
+                    name: region,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: "Postcode",
+                    name: postcode,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: "Country",
+                    name: country,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: "Country code",
+                    name: country_code,
+                    widget: string,
+                    required: false,
+                  },
+                ],
+            }
+          - {
+              label: Coordinates,
+              name: coordinates,
+              widget: object,
+              required: false,
+              fields:
+                [
+                  {
+                    label: "Latitude",
+                    name: latitude,
+                    widget: string,
+                    required: false,
+                  },
+                  {
+                    label: "Longitude",
+                    name: longitude,
+                    widget: string,
+                    required: false,
+                  },
+                ],
+            }
+          - {
+              label: "Sharing Image (default)",
+              name: sharing_image,
+              widget: string,
+              required: false,
+            }
