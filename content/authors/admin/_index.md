@@ -1,10 +1,7 @@
 ---
 title: Jane Baldwin
-superuser: true
 role: Assistant Professor of Earth System Science
-organizations:
-  - name: University of California, Irvine
-    url: https://www.ess.uci.edu/
+avatar_filename: avatar.jpg
 bio: My research interests include climate dynamics and modeling, and extreme
   event risk.
 interests:
@@ -14,21 +11,10 @@ interests:
   - Climate Impacts
   - Environmental Health
   - Catastrophe Modeling
-education:
-  courses:
-    - course: PhD in Atmospheric and Oceanic Sciences
-      institution: Princeton University
-      year: 2018
-    - course: BA in Earth and Planetary Sciences (Summa Cum Laude, Phi Beta Kappa)
-      institution: Harvard University
-      year: 2012
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jane.baldwin@uci.edu
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/janewbaldwin
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Jtn-XfoAAAAJ&view_op=list_works&gmla=AJsN-F5AY98csVTmspglBaUmos90VcC8Ci-Hy_9PE-8uhF0SB9oEsNOhLR66oLIUHqpH1LGnVVHNeq9vleJo7Ue-ZbuBR-8gyFeTyLdGG6YmBGO4XoEGWsk
@@ -41,11 +27,22 @@ social:
   - icon: cv
     icon_pack: ai
     link: files/cv.pdf
+organizations:
+  - name: University of California, Irvine
+    url: https://www.ess.uci.edu/
+education:
+  courses:
+    - course: PhD in Atmospheric and Oceanic Sciences
+      institution: Princeton University
+      year: 2018
+    - course: BA in Earth and Planetary Sciences (Summa Cum Laude, Phi Beta Kappa)
+      institution: Harvard University
+      year: 2012
 email: ""
-highlight_name: false
+superuser: true
 user_groups:
   - Principal Investigator
-avatar_filename: avatar.jpg
+highlight_name: false
 ---
 
 Dr. Baldwin is broadly interested in how large-scale atmospheric dynamics influence regional climate and climatic extremes, with an eye to climate change and policy applications.
