@@ -1,0 +1,12 @@
+# 忽略所有文件
+*
+# 或者忽略特定目录
+# content/
+# static/
+# exampleSite/
+# _ref/
+# 忽略特定文件类型
+# *.md
+# *.yml
+# *.toml
+# *.html

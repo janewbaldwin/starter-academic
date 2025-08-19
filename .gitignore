@@ -4,3 +4,14 @@
 # Hugo
 /resources/
 public/
+.hugo_build.lock
+
+# macOS
+.DS_Store
+
+# Generated files
+_ref/
+_vendor/
+exampleSite/resources/
+exampleSite/.hugo_build.lock
+hugo_old_extended
