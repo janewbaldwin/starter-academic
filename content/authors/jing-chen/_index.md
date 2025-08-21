@@ -10,5 +10,5 @@ education:
   courses:
     - institution: National Taiwan University
       course: B.S.
-      year: 2006
+      year: 2020
 ---
