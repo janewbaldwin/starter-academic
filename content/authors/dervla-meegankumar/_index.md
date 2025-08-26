@@ -1,5 +1,5 @@
 ---
-title: Dervla Meegan Kumar
+title: Dervla Meegan-Kumar
 role: Postdoctoral Research Associate
 avatar_filename: avatar.jpg
 bio: null
