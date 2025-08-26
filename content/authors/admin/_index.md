@@ -1,5 +1,5 @@
 ---
-title: Jane Baldwin
+title: Jane W. Baldwin
 role: Assistant Professor of Earth System Science
 avatar_filename: avatar.jpg
 bio: My research interests include climate dynamics and modeling, and extreme
@@ -11,6 +11,20 @@ interests:
   - Climate Impacts
   - Environmental Health
   - Catastrophe Modeling
+user_groups:
+  - Principal Investigator
+education:
+  courses:
+    - course: PhD in Atmospheric and Oceanic Sciences
+      institution: Princeton University
+      year: 2018
+    - course: BA in Earth and Planetary Sciences (Summa Cum Laude, Phi Beta Kappa)
+      institution: Harvard University
+      year: 2012
+superuser: true
+organizations:
+  - name: University of California, Irvine
+    url: https://www.ess.uci.edu/
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,22 +41,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: files/cv.pdf
-organizations:
-  - name: University of California, Irvine
-    url: https://www.ess.uci.edu/
-education:
-  courses:
-    - course: PhD in Atmospheric and Oceanic Sciences
-      institution: Princeton University
-      year: 2018
-    - course: BA in Earth and Planetary Sciences (Summa Cum Laude, Phi Beta Kappa)
-      institution: Harvard University
-      year: 2012
-email: ""
-superuser: true
-user_groups:
-  - Principal Investigator
 highlight_name: false
+email: ""
 ---
 
 Dr. Baldwin is broadly interested in how large-scale atmospheric dynamics influence regional climate and climatic extremes, with an eye to climate change and policy applications.
