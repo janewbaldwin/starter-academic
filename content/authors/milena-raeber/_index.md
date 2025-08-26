@@ -12,7 +12,7 @@ education:
     - course: B.A. in Environmental Science and Policy
       institution: University of California Irvine
       year: 2024
-    - course: Ph.D. in Earth and Environment
+    - course: Ph.D. in Earth and Environment, expected 2029
       year: ""
-      institution: " Boston University, expected 2029"
+      institution: " Boston University"
 ---
