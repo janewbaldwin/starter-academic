@@ -5,6 +5,8 @@ avatar_filename: avatar.jpg.jpg
 interests:
   - urban ecology
   - heat stress
+user_groups:
+  - Current
 education:
   courses:
     - course: B.A. in Environmental Science and Policy
