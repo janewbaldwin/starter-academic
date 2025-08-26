@@ -13,6 +13,6 @@ education:
       institution: University of California Irvine
       year: 2024
     - course: Ph.D. in Earth and Environment
-      year: 2029
-      institution: " Boston University"
+      year: ""
+      institution: " Boston University, expected 2029"
 ---
