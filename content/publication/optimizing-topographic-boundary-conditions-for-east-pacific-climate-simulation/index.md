@@ -32,7 +32,7 @@ authors:
   - Christopher M. Colose
   - Jingbo Wu
   - Jared Sexton
-  - and Jane W. Baldwin
+  - Jane W. Baldwin
 date: 2025-06-01T19:45:44.428Z
 publication_types:
   - "2"
