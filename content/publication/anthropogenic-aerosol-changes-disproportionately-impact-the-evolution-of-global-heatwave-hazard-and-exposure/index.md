@@ -28,7 +28,7 @@ abstract: Understanding and predicting heatwave risk is a societal imperative in
 authors:
   - Geeta G Persad
   - Cameron Cummins
-  - Jane W Baldwin
+  - Jane W. Baldwin
 date: 2025-07-01T13:04:01.896Z
 publication_types:
   - "2"
