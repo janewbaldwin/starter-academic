@@ -15,4 +15,8 @@ education:
     - course: Ph.D. in Earth and Environment, expected 2029
       year: ""
       institution: " Boston University"
+social:
+  - icon: envelope
+    icon_pack: fab
+    link: mraeber@bu.edu
 ---
