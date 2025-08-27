@@ -27,7 +27,7 @@ authors:
   - Sarah Perkins-Kirkpatrick
   - Catherine Gregory
   - Jennifer Vanos
-  - Jane Baldwin
+  - Jane W. Baldwin
   - Haley Staudmeyer
   - Gisel Guzman-Echavarria
   - Ollie Jay
