@@ -26,10 +26,11 @@ authors:
   - Fiaz Ahmed
   - Liran Peng
   - Jane W. Baldwin
-date: 2025-07-04T13:30:02.460Z
+date: 2025-08-27T13:30:02.460Z
 publication_types:
   - "2"
-publication: "*accepted at Geophysical Research Letters*"
-url_pdf: https://d197for5662m48.cloudfront.net/documents/publicationstatus/267205/preprint_pdf/7506a196c760208e78c19464a3cc0d7c.pdf
+publication: "*Geophysical Research Letters*"
+doi: " https://doi.org/10.1029/2025GL115546"
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025GL115546
 draft: false
 ---
