@@ -6,7 +6,7 @@ interests:
   - Climate modeling
   - Precipitation extremes
   - Atmospheric and oceanic dynamics
-  - and Climate impacts
+  - Climate impacts
 user_groups:
   - Current
 education:
