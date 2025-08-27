@@ -13,7 +13,7 @@ education:
   courses:
     - course: BA in Atmospheric and Oceanic Science
       institution: University of Colorado Boulder
-      year: 2023
+      year: 2024
 social:
   - icon: envelope
     icon_pack: fas
