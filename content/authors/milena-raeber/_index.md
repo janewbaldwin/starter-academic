@@ -17,6 +17,6 @@ education:
       institution: " Boston University"
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: mraeber@bu.edu
 ---
