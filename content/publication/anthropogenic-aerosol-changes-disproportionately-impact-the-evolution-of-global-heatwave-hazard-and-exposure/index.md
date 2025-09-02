@@ -32,7 +32,7 @@ authors:
 date: 2025-07-01T13:04:01.896Z
 publication_types:
   - "2"
-publication: "*IOP Publishing Ltd*"
+publication: "*Environmental Research Letters*"
 doi: 10.1088/1748-9326/addee0
 url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/addee0/pdf
 draft: false
