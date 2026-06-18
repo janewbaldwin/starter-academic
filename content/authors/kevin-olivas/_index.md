@@ -8,7 +8,7 @@ interests:
   - Atmospheric and oceanic dynamics
   - Climate impacts
 user_groups:
-  - Current
+  - Former
 education:
   courses:
     - course: BA in Atmospheric and Oceanic Science
