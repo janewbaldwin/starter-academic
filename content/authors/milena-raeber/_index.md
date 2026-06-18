@@ -6,7 +6,7 @@ interests:
   - urban ecology
   - heat stress
 user_groups:
-  - Current
+  - Former
 education:
   courses:
     - course: B.A. in Environmental Science and Policy
