@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 interests:
   - software engineering
 user_groups:
-  - Current
+  - Former
 education:
   courses:
     - institution: National Taiwan University
