@@ -6,6 +6,8 @@ interests:
   - climate dynamics
   - Extreme Event Risk
   - land-atmosphere feedbacks
+user_groups:
+  - Current
 education:
   courses:
     - course: Ph.D., Climate Science
