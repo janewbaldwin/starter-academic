@@ -26,5 +26,5 @@ social:
     link: ymu@ucsb.edu
   - link: https://twitter.com/EffrainMu
     icon_pack: fas
-    icon: bird
+    icon: twitter
 ---
