@@ -15,5 +15,6 @@ education:
       year: 2020
 social:
   - link: https://www.researchgate.net/profile/Yu_Zhao201/research
-    icon: website
+    icon: globe
+    icon_pack: fas
 ---
