@@ -5,6 +5,8 @@ avatar_filename: 4965aa1450b70336742754d021740f1a.jpg
 bio: ""
 interests:
   - "Interests: - climate dynamics - extreme event mechanisms"
+user_groups:
+  - Current
 education:
   courses:
     - course: Ph.D. in Earth System Science
