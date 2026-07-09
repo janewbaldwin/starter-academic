@@ -4,7 +4,8 @@ role: Postdoctoral Research Associate
 avatar_filename: avatar.png.jpg
 bio: ""
 interests:
-  - "Interests: - climate dynamics - extreme event mechanisms"
+  - climate dynamics
+  - extreme event mechanisms
 user_groups:
   - Current
 education:
