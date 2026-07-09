@@ -39,7 +39,8 @@ authors:
 date: 2026-05-29T20:40:10.136Z
 publication_types:
   - "0"
-publication: "*Purpose-Led Publishing*"
+publication: "*Environmental Research: Health*"
+doi: 10.1088/2752-5309/ae3c3a
 url_pdf: https://iopscience.iop.org/article/10.1088/2752-5309/ae3c3a/pdf
 draft: false
 ---
