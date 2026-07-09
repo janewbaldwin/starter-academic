@@ -50,5 +50,6 @@ publication_types:
   - "2"
 publication: "*Science*"
 doi: 10.1126/science.adp9559
+url_pdf: https://www.science.org/doi/reader/10.1126/science.adp9559
 draft: false
 ---
