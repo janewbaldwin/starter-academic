@@ -38,5 +38,6 @@ publication_types:
   - "2"
 publication: "*Journal of Climate*"
 doi: https://doi.org/10.1175/JCLI-D-24-0316.1
+url_pdf: https://journals.ametsoc.org/downloadpdf/view/journals/clim/38/11/JCLI-D-24-0316.1.pdf
 draft: false
 ---
