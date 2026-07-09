@@ -27,5 +27,7 @@ date: 2026-03-26T20:37:45.700Z
 publication_types:
   - "2"
 publication: "*Nature Communications*"
+doi: 10.1038/s41467-026-70485-1
+url_pdf: https://www.nature.com/articles/s41467-026-70485-1.pdf
 draft: false
 ---
