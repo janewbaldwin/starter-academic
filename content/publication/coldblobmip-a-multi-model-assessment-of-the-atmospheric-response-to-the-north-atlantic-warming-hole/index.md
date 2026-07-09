@@ -32,7 +32,8 @@ authors:
 date: 2025-10-03T20:42:41.824Z
 publication_types:
   - "0"
-publication: "*AGU Advancing Earth and Space Sciences*"
+publication: "*Geophysical Research Letters*"
+doi: https://doi.org/10.1029/2025GL117784
 url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025GL117784
 draft: false
 ---
