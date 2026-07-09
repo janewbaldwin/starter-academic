@@ -1,7 +1,7 @@
 ---
 title: Yu Zhao
 role: Postdoctoral Research Associate
-avatar_filename: 4965aa1450b70336742754d021740f1a.jpg
+avatar_filename: avatar.png.jpg
 bio: ""
 interests:
   - "Interests: - climate dynamics - extreme event mechanisms"
