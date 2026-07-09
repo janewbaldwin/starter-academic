@@ -1,10 +1,10 @@
 ---
 title: Ye Mu
 role: Postdoctoral Research Associate
-avatar_filename: img_3343.jpg
+avatar_filename: avatar.png.jpg
 interests:
-  - climate dynamics
-  - Extreme Event Risk
+  - Climate dynamics
+  - extreme event risk
   - land-atmosphere feedbacks
 user_groups:
   - Current
