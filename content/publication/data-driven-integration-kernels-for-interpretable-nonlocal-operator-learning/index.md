@@ -33,6 +33,7 @@ date: 2026-03-11T20:30:45.245Z
 publication_types:
   - "0"
 publication: "*Cornell University*"
+doi: https://doi.org/10.48550/arXiv.2603.10305
 url_pdf: https://arxiv.org/pdf/2603.10305
 draft: false
 ---
